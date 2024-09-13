@@ -1,4 +1,5 @@
-﻿using labo.signalr.api.Models;
+﻿using labo.signalr.api.Hubs;
+using labo.signalr.api.Models;
 using Microsoft.EntityFrameworkCore;
 
 namespace labo.signalr.api.Data;
